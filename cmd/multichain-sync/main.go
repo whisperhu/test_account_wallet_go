@@ -21,4 +21,5 @@ func main() {
 		log.Error("Application failed")
 		os.Exit(1)
 	}
+
 }
